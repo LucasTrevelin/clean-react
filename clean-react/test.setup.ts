@@ -1,4 +1,3 @@
-import './src/i18n'
 import '@testing-library/jest-dom'
 import '@testing-library/jest-dom/vitest'
 
